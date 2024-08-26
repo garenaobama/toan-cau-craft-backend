@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": "8bdd795c-6a8c-40ed-a650-fc66cfe03a49",
+      "name": "OX/ BUFFALO HORN PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "9547c53b-1df8-4226-8732-079144f98706",
+      "name": "MOTHER OF PEARL PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "d0fd5850-cda6-4fb4-a648-9ad639290c4a",
+      "name": "SEA SHELL / MOTHER OF PEARL MOSAIC PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "8b8848e3-ba63-4f8a-8eb5-de6fb4bf3600",
+      "name": "BAMBOO/ RATTAN PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "bef1a550-0d06-44af-bd98-bf7c0f6da2ca",
+      "name": "RATTAN PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "b6835ddf-4719-4cc1-9f5a-92ba8db74e7a",
+      "name": "COCONUT PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "002b4b04-24f8-4ee2-97aa-aa1b6137f120",
+      "name": "LACQUER PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "160ca093-9300-42f5-9f2b-5447e07bf977",
+      "name": "RECYCLED RUBBER PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    },
+    {
+      "id": "7fd2941b-5db1-4391-9be7-dccd588d9e85",
+      "name": "WOODEN PRODUCTS",
+      "slug": "ox-buffalo-horn-products"
+    }
+  ],
+  "types": [
+    {
+      "id": "37f6e56b-3aff-40cc-bf80-831105ff244b",
+      "name": "SPOON / FORK",
+      "slug": "spoon-fork"
+    },
+    {
+      "id": "42c4c4d0-ea86-4b97-9f45-89f8c5a8af22",
+      "name": "COMB",
+      "slug": "comb"
+    },
+    {
+      "id": "c10085e6-7cef-4c2d-93cf-25fcce53476c",
+      "name": "NACKLACE / RING",
+      "slug": "nacklace-ring"
+    },
+    {
+      "id": "55b981b1-075a-4c63-88cd-e0b9d2c349ab",
+      "name": "CHOPTICKS",
+      "slug": "chopticks"
+    },
+    {
+      "id": "4c52b055-c729-41f6-a424-e2d043158a28",
+      "name": "DISH / PLATE",
+      "slug": "dish-plate"
+    },
+    {
+      "id": "c2fa80cc-45af-44ed-9a87-8f1429bf5654",
+      "name": "BOWL",
+      "slug": "bowl"
+    },
+    {
+      "id": "18bac634-ac74-4847-ba4f-7f45b3e928fc",
+      "name": "CUP",
+      "slug": "cup"
+    },
+    {
+      "id": "f45e5dc6-9939-4f4f-ae14-c0007a941f26",
+      "name": "TRAY",
+      "slug": "tray"
+    },
+    {
+      "id": "9b38d396-1d15-4e63-8965-fc1db6a61250",
+      "name": "CHAIR",
+      "slug": "chair"
+    },
+    {
+      "id": "15ad92dc-bafe-4a0e-9c5c-6df168c42d11",
+      "name": "BOX",
+      "slug": "box"
+    },
+    {
+      "id": "b278bf67-a30e-4c75-81ef-9c1aa01267c7",
+      "name": "CANDLE HOLDER",
+      "slug": "candle-holder"
+    },
+    {
+      "id": "333713eb-1f34-41c0-9b81-d83de678ea5b",
+      "name": "TISSUE",
+      "slug": "tissue"
+    },
+    {
+      "id": "6b48fe53-1f86-4420-8e9e-616f0ab5de6f",
+      "name": "SCULPTURE",
+      "slug": "sculpture"
+    },
+    {
+      "id": "b6e8c0ad-3760-4755-a7ec-50298464589c",
+      "name": "VASE",
+      "slug": "vase"
+    },
+    {
+      "id": "f7ef01b6-a7ca-4b61-8928-87eefc70ea1a",
+      "name": "TRASH",
+      "slug": "trash"
+    },
+    {
+      "id": "1b6cd039-33eb-42f1-ac5a-ae45635bfb73",
+      "name": "SIDE TABLE",
+      "slug": "side-table"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "product 1",
+      "category": {
+        "id": "8bdd795c-6a8c-40ed-a650-fc66cfe03a49",
+        "name": "OX/ BUFFALO HORN PRODUCTS",
+        "slug": "ox-buffalo-horn-products"
+      },
+      "type": {
+        "id": "1b6cd039-33eb-42f1-ac5a-ae45635bfb73",
+        "name": "SIDE TABLE",
+        "slug": "side-table"
+      }
+    },
+    {
+      "id": "2",
+      "name": "product 2",
+      "category": {
+        "id": "8bdd795c-6a8c-40ed-a650-fc66cfe03a49",
+        "name": "OX/ BUFFALO HORN PRODUCTS",
+        "slug": "ox-buffalo-horn-products"
+      },
+      "type": {
+        "id": "1b6cd039-33eb-42f1-ac5a-ae45635bfb73",
+        "name": "SIDE TABLE",
+        "slug": "side-table"
+      }
+    }
+  ]
+}
